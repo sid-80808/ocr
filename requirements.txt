@@ -1,6 +1,0 @@
-streamlit
-pytesseract
-pillow
-transformers==4.44.2
-torch
-sentencepiece
