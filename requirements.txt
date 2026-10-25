@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pillow
+transformers
+torch
+sentencepiece
+transformers==4.44.2
